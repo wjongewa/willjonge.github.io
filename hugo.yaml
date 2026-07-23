@@ -2,3 +2,9 @@ baseURL: https://willjonge.com/
 locale: en-us
 title: Will Jonge
 theme: 'PaperMod'
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
