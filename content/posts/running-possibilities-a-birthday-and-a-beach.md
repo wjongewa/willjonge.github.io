@@ -2,7 +2,8 @@
 date: '2023-10-20T21:35:17-04:00'
 draft: false
 title: 'Running, Possibilities, a Birthday, and a Beach'
-description: "A long-winded story about running and friends. It reflects well the era when I wrote it. The first half is much more worth reading than the second, though I often think about Jacinto"
+description: "A long-winded story about running and friends. It reflects well the era when I wrote it. The first half is much more worth reading than the second, though I often think about Jacinto."
+summary: "A long-winded story about running and friends. It reflects well the era when I wrote it. The first half is much more worth reading than the second, though I often think about Jacinto."
 ---
 
 ## Running and You and Me
