@@ -1,6 +1,6 @@
 ---
 date: '2024-02-26T21:35:17-04:00'
-draft: true
+draft: false
 title: 'Running, Possibilities, a Birthday, and a Beach'
 ---
 
