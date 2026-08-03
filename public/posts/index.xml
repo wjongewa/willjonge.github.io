@@ -6,15 +6,8 @@
     <description>Recent content in Posts on Will Jonge</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 11:48:42 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 19:37:13 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chocolate</title>
-      <link>http://localhost:1313/posts/chocolate/</link>
-      <pubDate>Sat, 01 Aug 2026 11:48:42 -0400</pubDate>
-      <guid>http://localhost:1313/posts/chocolate/</guid>
-      <description>a short story about successfully making chocolate in rural Timor-Leste and unsuccessfully convincing my host family to do it too.</description>
-    </item>
     <item>
       <title>Two Weeks on a Bicycle Around Taiwan</title>
       <link>http://localhost:1313/posts/two-weeks-on-a-bicycle-around-taiwan/</link>
@@ -42,6 +35,20 @@
       <pubDate>Fri, 20 Oct 2023 21:35:17 -0400</pubDate>
       <guid>http://localhost:1313/posts/running-possibilities-a-birthday-and-a-beach/</guid>
       <description>A long-winded story about running and friends. It reflects well the era when I wrote it. The first half is much more worth reading than the second, though I often think about Jacinto.</description>
+    </item>
+    <item>
+      <title>Chocolate</title>
+      <link>http://localhost:1313/posts/chocolate/</link>
+      <pubDate>Sun, 15 Oct 2023 11:48:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chocolate/</guid>
+      <description>A short story about successfully making chocolate in rural Timor-Leste and unsuccessfully convincing my host family to do it too.</description>
+    </item>
+    <item>
+      <title>Market Day</title>
+      <link>http://localhost:1313/posts/market-day/</link>
+      <pubDate>Thu, 11 May 2023 17:51:38 -0400</pubDate>
+      <guid>http://localhost:1313/posts/market-day/</guid>
+      <description>A short photo story of the weekly market day in Ermera Vila. A great glimpse into the everyday life of somewhere very different than most readers&amp;#39; experiences.</description>
     </item>
     <item>
       <title>Peace Corps Training</title>
