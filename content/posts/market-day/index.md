@@ -31,7 +31,7 @@ Sometimes there is a man playing loud Indonesian EDM to gather attention his raf
 ![shoes to be sold](P1000435.JPG)
 ![sandals to be sold](P1000400.JPG)
 
-I love the market day. It is a chance for energy to come to my sleepy village. On market day I have found fruits that I will likely never have again. Twice a year, one man sells his sweet gray passionfruit that I always buy in bulk because it is my favorite fruit (see photo below). I have found bananas in many shapes, sizes, and colors with flavors like canteloupe, green apple, caramel, and even mezcal (I swear). I love market day because of the seemingly random and absurd clothes that are sold. See the below photo of "Transgressive Sexualpraction". I once saw an old lady wearing a Death Grips x Ronald McDonald House t-shirt. There are countless absurdisms that I regret not buying.
+I love the market day. It is a chance for energy to come to my sleepy village. On market day I have found fruits that I will likely never have again. Twice a year, one man sells his sweet gray passion fruit that I always buy in bulk because it is my favorite fruit (see photo below). I have found bananas in many shapes, sizes, and colors with flavors like cantaloupe, green apple, caramel, and even mezcal (I swear). I love market day because of the seemingly random and absurd clothes that are sold. See the below photo of "Transgressive Sexualpraction". I once saw an old lady wearing a Death Grips x Ronald McDonald House t-shirt. There are countless absurdisms that I regret not buying.
 
 ![ladies selling food](P1000444.JPG)
 ![cool sweater](P1000442.JPG)

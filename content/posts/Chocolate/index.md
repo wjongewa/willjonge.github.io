@@ -35,7 +35,7 @@ For my tastes, this is where I ended the project. I love the complex and bitter 
 ![roasting cacao in qdidin](P1000567.JPG)
 ![roasting cacao](P1000570.JPG)
 
-I showed this to my family, with the assumption that they would then do it themselves with the cacao they found in the forest. They never did. At first, I felt bummed that my idea didn't take off, but later I realized that there are countless reasons why it didn't. It takes more than a demonstration to start a new industry in a village. It also probablt didn't help that they thought my finished product was disgusting and very different than the cheap, highly processed, and imported chocolate products they were familar with. What I thought would be a lesson for them, was much more of a lesson for me.
+I showed this to my family, with the assumption that they would then do it themselves with the cacao they found in the forest. They never did. At first, I felt bummed that my idea didn't take off, but later I realized that there are countless reasons why it didn't. It takes more than a demonstration to start a new industry in a village. It also probably didn't help that they thought my finished product was disgusting and very different than the cheap, highly processed, and imported chocolate products they were familiar with. What I thought would be a lesson for them, was much more of a lesson for me.
 
 ![cacao](P1000575.JPG) ![cacao](P1000576.JPG)
 

@@ -9,7 +9,7 @@ description: I love this place. I have only gone twice, but each time was so ric
 
 ![Mario's place in Adara Atauro](P1000780.JPG)
 
-Atauro is one of my favorite places in the entire world; the village of Adara on the sparsely populated west side is probably #1. This post will briefly talk about my stories of going and staying there, but moreso I hope it inspires you to go to Atauro or maybe to find your own Atauro wherever it may be.
+Atauro is one of my favorite places in the entire world; the village of Adara on the sparsely populated west side is probably #1. This post will briefly talk about my stories of going and staying there, but more so I hope it inspires you to go to Atauro or maybe to find your own Atauro wherever it may be.
 
 ![Ferry between Dili and Atauro](P1000692.JPG)
 
@@ -32,7 +32,7 @@ The third and second options are expensive, though the third is feasible if you 
 ![friends in truck](P1000693.JPG) 
 ![truck](P1000695.JPG)
 
-In and near Beloi and plenty of options for accomodations. They're all great and worth spending time at. At any of these accomodations, ask about the path to Adara or Mario's place. It should be easy to find a map or an explained route across the island. Once you find your route, know that it will take about four hours to complete. There won't be many places for water and shade is limited on the beginning of the hike, plan accordingly. Also know that should you meet anyone on the path, they will likely know exactly where you are going before you say anything, they'll be happy to point you in the right direction. The trail is decently challenging, but is full of great views, plants, homesteads, and other interesting things that make it well worth the sweat. If you got his whatsapp number and coordinated with him, Mario may even have refreshments ready for you when you arrive to his place.
+In and near Beloi and plenty of options for accommodations. They're all great and worth spending time at. At any of these accommodations, ask about the path to Adara or Mario's place. It should be easy to find a map or an explained route across the island. Once you find your route, know that it will take about four hours to complete. There won't be many places for water and shade is limited on the beginning of the hike, plan accordingly. Also know that should you meet anyone on the path, they will likely know exactly where you are going before you say anything, they'll be happy to point you in the right direction. The trail is decently challenging, but is full of great views, plants, homesteads, and other interesting things that make it well worth the sweat. If you got his whatsapp number and coordinated with him, Mario may even have refreshments ready for you when you arrive to his place.
 
 ![friends on trail](P1000698-2.JPG) 
 ![trail signs](P1000701-1.JPG) 
@@ -44,18 +44,18 @@ In and near Beloi and plenty of options for accomodations. They're all great and
 
 ![goat](P1000738.JPG)
 
-Atauro gets its name from the local word from goat. During the Indonesian occupation, it was called Pulau Kamping, Indonesian for Goat Island. You will see many goats on the island. While staying at Mario's place, I followed some of these goat paths with my friend Shawn. It started in curiousity, but ended in satisfaction and wonder.
+Atauro gets its name from the local word from goat. During the Indonesian occupation, it was called Pulau Kamping, Indonesian for Goat Island. You will see many goats on the island. While staying at Mario's place, I followed some of these goat paths with my friend Shawn. It started in curiosity, but ended in satisfaction and wonder.
 
 ![Shawn's back](P1000739.JPG) 
 ![Shawn and the wonder](P1000748.JPG) 
 
-We started in a ravine and started climbing to see where the trails lead. We climbed through thick brush, often passing seemingly paleolithic structures made of corals, presumably used to hold animals. Every ten minutes we reached a new plateau with new curiousities. Eventually we reached a great high plain with incredible views of the mountain, valley, and village below. We let curiousity guide us and it led us to somewhere exceptionally neat.
+We started in a ravine and started climbing to see where the trails lead. We climbed through thick brush, often passing seemingly paleolithic structures made of corals, presumably used to hold animals. Every ten minutes we reached a new plateau with new curiosities. Eventually we reached a great high plain with incredible views of the mountain, valley, and village below. We let curiosity guide us and it led us to somewhere exceptionally neat.
 
 ![Adara from above](P1000753.JPG)
 
 ### Bungalows on the beach
 
-To me, Mario's place in Adara is special because it is you, bungalows, beach, nature, no internet, fresh food, and barely anyone else. Food is included in Mario's price. The meals are usually rice, fresh vegetables, and fresh fish; it is simple fare, but the difference is the savor that's included only after hours of swimming, hiking, and playing. You will be hungry and you will appreciate every bite of your meals. Mario is also a cool dude who keeps pigs as pets. Some mornings you will wake up to see dolphins jumping in the water infront of you. Okay, admittedly, maybe most of my love of this place comes from who I spent it with each time I went, but I assure you the place is still magical no matter who you go with.
+To me, Mario's place in Adara is special because it is you, bungalows, beach, nature, no internet, fresh food, and barely anyone else. Food is included in Mario's price. The meals are usually rice, fresh vegetables, and fresh fish; it is simple fare, but the difference is the savor that's included only after hours of swimming, hiking, and playing. You will be hungry and you will appreciate every bite of your meals. Mario is also a cool dude who keeps pigs as pets. Some mornings you will wake up to see dolphins jumping in the water in front of you. Okay, admittedly, maybe most of my love of this place comes from who I spent it with each time I went, but I assure you the place is still magical no matter who you go with.
 
 ![Horacio and Jade](P1000775.JPG)
 ![Jade and Horacio](P1000788.JPG)
