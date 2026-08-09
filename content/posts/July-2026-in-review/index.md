@@ -87,3 +87,5 @@ Being the first Will Jonge Newsletter, it is sure to be the best now, but will s
 Thanks,
 
                     - Your friend Will
+
+Thanks for your time. [Tell me what you think](mailto:dubjongeward@gmail.com)

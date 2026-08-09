@@ -16,7 +16,7 @@ Once volunteers arrive in a country, Peace Corps trains them for three months. I
 
 ![Peace Corps Volunteers Cooking Timorese Food](P1000103.JPG)
 
-Peace Corps hires a mix of US citizens, host-country nationals, and third-country nationals to its staff. In the program for Timor-Leste, only a few positions are held by non-Timorese. This meant that during training, we were mostly taught by locals who were well equiped to teach us the national language (Tetun), important cultural behavior, and the realities of the contextes in which we would work. I had two language teachers in my training, Mana Vero and Mana Tita, both of whom I credit so much of my ability to learn the language and do well in the new culture. The rest of the learning came from my host family and all the neighbors with whom I talked and played everyday. I always joke with people that the best way to learn a language is to have it be the barrier between you and being able to eat.
+Peace Corps hires a mix of US citizens, host-country nationals, and third-country nationals to its staff. In the program for Timor-Leste, only a few positions are held by non-Timorese. This meant that during training, we were mostly taught by locals who were well equipped to teach us the national language (Tetun), important cultural behavior, and the realities of the contexts in which we would work. I had two language teachers in my training, Mana Vero and Mana Tita, both of whom I credit so much of my ability to learn the language and do well in the new culture. The rest of the learning came from my host family and all the neighbors with whom I talked and played everyday. I always joke with people that the best way to learn a language is to have it be the barrier between you and being able to eat.
 
 ![Timorese Dinner](P1000214.JPG)
 
@@ -28,7 +28,8 @@ I actually had the opportunity to visit Ermera Vila the week before I found out 
 
 ![practice teaching in Gleno](20230307-L1018461.jpg)
 
-Whether it was the adventures of Ruby and Mike's birthdays, the escapades of river crossing with a group of boys to find a cool statue, or the peace of veranda talks, those three months hold so many unforgettable experiences within a short and turbulent time; of course, the very best stories are kept between us and not on a blog read by my mother or the AI scraper of my future employer. Enough of the words, enjoy the photos.
+Whether it was the adventures of Ruby and Mike's birthdays, the escapades of river crossing with a group of boys to find a cool statue, or the peace of veranda talks, those three months hold so many unforgettable experiences within a short and turbulent time; of course, the very best stories are kept between us and not on a blog read by my mother or the AI scraper of my future employer. Enough of the words, enjoy the photos. [And tell me what you think](mailto:dubjongeward@gmail.com)
+
 
 ![Food](P1000061.JPG)
 ![Food](P1000063.JPG)

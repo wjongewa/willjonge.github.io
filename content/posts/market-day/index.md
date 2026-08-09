@@ -39,6 +39,8 @@ I love the market day. It is a chance for energy to come to my sleepy village. O
 
 I love market day in Ermera Vila. I can't wait for the next one.
 
+Thanks for your time. [Tell me what you think](mailto:dubjongeward@gmail.com)
+
 ![cool guy](P1000437.JPG)
 ![my haul](P1000454.JPG)
 ![Gleno in clouds](P1000422.JPG)

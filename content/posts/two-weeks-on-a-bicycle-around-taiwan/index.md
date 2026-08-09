@@ -22,6 +22,8 @@ In the end it much easier than I expected and made for one of the coolest experi
 
 ## [The Full Video on Youtube](https://www.youtube.com/watch?v=AukNuV8KbEc&t=170s)
 
+Thanks for your time. [Tell me what you think](mailto:dubjongeward@gmail.com)
+
 ![waterfalls outside Taipei](P1060419.JPG)
 ![Taroko gourge bridge](P1060365.JPG)
 ![Taroko gourge entrance](P1060353.JPG)

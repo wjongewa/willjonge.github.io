@@ -41,4 +41,6 @@ I showed this to my family, with the assumption that they would then do it thems
 
 On the bright side, this mostly meant more face-puckering bitter cacao for me.
 
+Thanks for your time. [Tell me what you think](mailto:dubjongeward@gmail.com)
+
 ![ready to eat chocolate](P1000580.JPG)
