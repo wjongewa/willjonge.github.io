@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-08-05T12:44:26-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/july-2026-in-review/</loc>
+    <lastmod>2026-08-05T12:44:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/op-eds/</loc>
     <lastmod>2026-08-05T12:44:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -14,10 +20,16 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-07-23T13:45:40-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/travel/</loc>
+    <lastmod>2025-06-10T19:37:13-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/two-weeks-on-a-bicycle-around-taiwan/</loc>
     <lastmod>2025-06-10T19:37:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/atauro/</loc>
+    <lastmod>2024-11-01T16:04:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/peace-corps/</loc>
     <lastmod>2024-11-01T16:04:27-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/a-week-in-jogja/</loc>
@@ -34,8 +46,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/peace-corps-training/</loc>
     <lastmod>2023-01-26T17:45:10-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

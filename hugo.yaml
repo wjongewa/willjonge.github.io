@@ -8,6 +8,18 @@ menu:
       name: About
       url: /about/
       weight: 10
+    - identifier: travel
+      name: Travel
+      url: /categories/travel/
+      weight: 20
+    - identifier: peacecorps
+      name: Peace Corps
+      url: /categories/peace-corps/
+      weight: 30
+    - identifier: opeds
+      name: Op Eds
+      url: /categories/op-eds/
+      weight: 40
 markup:
   goldmark:
     renderer:

@@ -4,6 +4,7 @@ draft: false
 title: 'A Week in Jogja'
 description: A story from my first time travelling abroad solo. This was a time of a lot of firsts. Yogyakarta is an amazing city and I hope I could capture some of it's allure in this brief story.
 summary: A story from my first time travelling abroad solo. This was a time of a lot of firsts. Yogyakarta is an amazing city and I hope I could capture some of it's allure in this brief story.
+categories: ["Travel"] 
 ---
 
 ![Borobudur](P1010924.JPG)

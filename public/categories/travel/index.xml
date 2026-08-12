@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Travel on Will Jonge</title>
+    <link>http://localhost:1313/categories/travel/</link>
+    <description>Recent content in Travel on Will Jonge</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jun 2025 19:37:13 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Weeks on a Bicycle Around Taiwan</title>
+      <link>http://localhost:1313/posts/two-weeks-on-a-bicycle-around-taiwan/</link>
+      <pubDate>Tue, 10 Jun 2025 19:37:13 -0400</pubDate>
+      <guid>http://localhost:1313/posts/two-weeks-on-a-bicycle-around-taiwan/</guid>
+      <description>After two years of Peace Corps service in Timor-Leste, I traveled Southeast Asia for almost six months. The last thing I did in Asia was do a cycle tour around Taiwan.</description>
+    </item>
+    <item>
+      <title>Atauro</title>
+      <link>http://localhost:1313/posts/atauro/</link>
+      <pubDate>Fri, 01 Nov 2024 16:04:27 -0400</pubDate>
+      <guid>http://localhost:1313/posts/atauro/</guid>
+      <description>I love this place. I have only gone twice, but each time was so rich in experience and memories. Saudades. If you can, go. If you can&amp;#39;t, enjoy the words and photos.</description>
+    </item>
+    <item>
+      <title>A Week in Jogja</title>
+      <link>http://localhost:1313/posts/a-week-in-jogja/</link>
+      <pubDate>Sat, 20 Apr 2024 17:30:25 -0400</pubDate>
+      <guid>http://localhost:1313/posts/a-week-in-jogja/</guid>
+      <description>A story from my first time travelling abroad solo. This was a time of a lot of firsts. Yogyakarta is an amazing city and I hope I could capture some of it&amp;#39;s allure in this brief story.</description>
+    </item>
+  </channel>
+</rss>

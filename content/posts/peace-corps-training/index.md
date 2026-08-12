@@ -4,6 +4,7 @@ draft: false
 title: 'Peace Corps Training'
 summary: Mostly photos from my three months of Peace Corps training in Gleno in Timor-Leste. So many memories in this blog, so many more not.
 description: Mostly photos from my three months of Peace Corps training in Gleno in Timor-Leste. So many memories in this blog, so many more not.
+categories: ["Peace Corps"] 
 ---
 
 ![Meeting Peace Corps Timor-Leste Director Jamie Fouss](<Meeting CD.jpg>)

@@ -4,6 +4,7 @@ draft: false
 title: 'July 2026 in Review'
 summary: The month I found my groove in NYC. 
 description: The month I found my groove in NYC
+categories: ["Op Eds"] 
 ---
 ## What I've been doing
 

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Peace Corps on Will Jonge</title>
+    <link>http://localhost:1313/categories/peace-corps/</link>
+    <description>Recent content in Peace Corps on Will Jonge</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 16:04:27 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/peace-corps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atauro</title>
+      <link>http://localhost:1313/posts/atauro/</link>
+      <pubDate>Fri, 01 Nov 2024 16:04:27 -0400</pubDate>
+      <guid>http://localhost:1313/posts/atauro/</guid>
+      <description>I love this place. I have only gone twice, but each time was so rich in experience and memories. Saudades. If you can, go. If you can&amp;#39;t, enjoy the words and photos.</description>
+    </item>
+    <item>
+      <title>Running, Possibilities, a Birthday, and a Beach</title>
+      <link>http://localhost:1313/posts/running-possibilities-a-birthday-and-a-beach/</link>
+      <pubDate>Fri, 20 Oct 2023 21:35:17 -0400</pubDate>
+      <guid>http://localhost:1313/posts/running-possibilities-a-birthday-and-a-beach/</guid>
+      <description>A long-winded story about running and friends. It reflects well the era when I wrote it. The first half is much more worth reading than the second, though I often think about Jacinto.</description>
+    </item>
+    <item>
+      <title>Chocolate</title>
+      <link>http://localhost:1313/posts/chocolate/</link>
+      <pubDate>Sun, 15 Oct 2023 11:48:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chocolate/</guid>
+      <description>A short story about successfully making chocolate in rural Timor-Leste and unsuccessfully convincing my host family to do it too.</description>
+    </item>
+    <item>
+      <title>Market Day</title>
+      <link>http://localhost:1313/posts/market-day/</link>
+      <pubDate>Thu, 11 May 2023 17:51:38 -0400</pubDate>
+      <guid>http://localhost:1313/posts/market-day/</guid>
+      <description>A short photo story of the weekly market day in Ermera Vila. A great glimpse into the everyday life of somewhere very different than most readers&amp;#39; experiences.</description>
+    </item>
+    <item>
+      <title>Peace Corps Training</title>
+      <link>http://localhost:1313/posts/peace-corps-training/</link>
+      <pubDate>Thu, 26 Jan 2023 17:45:10 -0400</pubDate>
+      <guid>http://localhost:1313/posts/peace-corps-training/</guid>
+      <description>Mostly photos from my three months of Peace Corps training in Gleno in Timor-Leste. So many memories in this blog, so many more not.</description>
+    </item>
+  </channel>
+</rss>

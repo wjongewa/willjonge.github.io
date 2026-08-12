@@ -4,6 +4,7 @@ draft: false
 title: 'Two Weeks on a Bicycle Around Taiwan'
 description: After two years of Peace Corps service in Timor-Leste, I traveled Southeast Asia for almost six months. The last thing I did in Asia was do a cycle tour around Taiwan.
 Summary: After two years of Peace Corps service in Timor-Leste, I traveled Southeast Asia for almost six months. The last thing I did in Asia was do a cycle tour around Taiwan.
+categories: ["Travel"] 
 ---
 
 ![Taiwanese food](P1060200.JPG)

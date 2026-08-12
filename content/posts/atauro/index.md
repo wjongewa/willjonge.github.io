@@ -2,8 +2,9 @@
 date: '2024-11-01T16:04:27-04:00'
 draft: false
 title: 'Atauro'
-summary: I love this place. I have only gone twice, but each time was so rich in experience and memories. Saudades. If you can, go. If you can't, enjoy the words and photos.
-description: I love this place. I have only gone twice, but each time was so rich in experience and memories. Saudades. If you can, go. If you can't, enjoy the words and photos.
+summary: "I love this place. I have only gone twice, but each time was so rich in experience and memories. Saudades. If you can, go. If you can't, enjoy the words and photos."
+description: "I love this place. I have only gone twice, but each time was so rich in experience and memories. Saudades. If you can, go. If you can't, enjoy the words and photos."
+categories: ["Travel", "Peace Corps"]
 ---
 ## You should go to Atauro
 

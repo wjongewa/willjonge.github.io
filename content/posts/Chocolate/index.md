@@ -4,6 +4,7 @@ draft: false
 title: 'Chocolate'
 summary: A short story about successfully making chocolate in rural Timor-Leste and unsuccessfully convincing my host family to do it too.
 description: A short story about successfully making chocolate in rural Timor-Leste and unsuccessfully convincing my host family to do it too.
+categories: ["Peace Corps"]
 ---
 
 ![Cacao pod](P1000557.JPG)

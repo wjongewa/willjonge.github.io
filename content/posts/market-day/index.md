@@ -4,6 +4,7 @@ draft: false
 title: 'Market Day'
 summary: A short photo story of the weekly market day in Ermera Vila. A great glimpse into the everyday life of somewhere very different than most readers' experiences.
 description: A short photo story of the weekly market day in Ermera Vila. A great glimpse into the everyday life of somewhere very different than most readers' experiences.
+categories: ["Peace Corps"]
 ---
 ![path to Ermera market](P1000382.JPG)
 
