@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/august-2026-in-review/</loc>
+    <lastmod>2026-09-08T10:33:36-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-09-08T10:33:36-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-08T10:33:36-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ramelau/</loc>
+    <lastmod>2026-09-07T22:04:42-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/falafel/</loc>
+    <lastmod>2026-09-05T14:03:18-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bobonaro/</loc>
+    <lastmod>2026-09-05T14:02:44-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-08-05T12:44:26-04:00</lastmod>
+    <lastmod>2026-09-05T14:01:33-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/peace-corps/</loc>
+    <lastmod>2026-09-05T14:01:33-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/s%C3%A3o-joao-paulo-segundo/</loc>
+    <lastmod>2026-09-05T14:01:33-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/east-java/</loc>
+    <lastmod>2026-09-05T13:51:52-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/july-2026-in-review/</loc>
     <lastmod>2026-08-05T12:44:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/op-eds/</loc>
-    <lastmod>2026-08-05T12:44:26-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-08-05T12:44:26-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-08-05T12:44:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -27,9 +48,6 @@
     <lastmod>2025-06-10T19:37:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/atauro/</loc>
-    <lastmod>2024-11-01T16:04:27-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/peace-corps/</loc>
     <lastmod>2024-11-01T16:04:27-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/a-week-in-jogja/</loc>

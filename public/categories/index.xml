@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Will Jonge</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 12:44:26 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:01:33 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peace Corps</title>
+      <link>http://localhost:1313/categories/peace-corps/</link>
+      <pubDate>Sat, 05 Sep 2026 14:01:33 -0400</pubDate>
+      <guid>http://localhost:1313/categories/peace-corps/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Op Eds</title>
       <link>http://localhost:1313/categories/op-eds/</link>
@@ -20,13 +27,6 @@
       <link>http://localhost:1313/categories/travel/</link>
       <pubDate>Tue, 10 Jun 2025 19:37:13 -0400</pubDate>
       <guid>http://localhost:1313/categories/travel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Peace Corps</title>
-      <link>http://localhost:1313/categories/peace-corps/</link>
-      <pubDate>Fri, 01 Nov 2024 16:04:27 -0400</pubDate>
-      <guid>http://localhost:1313/categories/peace-corps/</guid>
       <description></description>
     </item>
   </channel>
