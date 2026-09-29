@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Will Jonge</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:33:36 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:00:55 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>29</title>
+      <link>http://localhost:1313/posts/29/</link>
+      <pubDate>Tue, 29 Sep 2026 10:00:55 -0400</pubDate>
+      <guid>http://localhost:1313/posts/29/</guid>
+      <description>28 started in despair, but grew to be possibly the greatest year of my life. I hope 29 can supercede.</description>
+    </item>
     <item>
       <title>August 2026 in Review</title>
       <link>http://localhost:1313/posts/august-2026-in-review/</link>
@@ -37,13 +44,6 @@
       <description></description>
     </item>
     <item>
-      <title>São Joao Paulo Segundo</title>
-      <link>http://localhost:1313/posts/s%C3%A3o-joao-paulo-segundo/</link>
-      <pubDate>Sat, 05 Sep 2026 14:01:33 -0400</pubDate>
-      <guid>http://localhost:1313/posts/s%C3%A3o-joao-paulo-segundo/</guid>
-      <description>An important statue of John Paul II was passed between schools while I was working at two schools in Timor. The ceremonies and rituals were profoundly moving for me. Read this article to learn some history, culture, and appreciation for the beauties of ceremony.</description>
-    </item>
-    <item>
       <title>East Java</title>
       <link>http://localhost:1313/posts/east-java/</link>
       <pubDate>Sat, 05 Sep 2026 13:51:52 -0400</pubDate>
@@ -70,6 +70,13 @@
       <pubDate>Fri, 01 Nov 2024 16:04:27 -0400</pubDate>
       <guid>http://localhost:1313/posts/atauro/</guid>
       <description>I love this place. I have only gone twice, but each time was so rich in experience and memories. Saudades. If you can, go. If you can&amp;#39;t, enjoy the words and photos.</description>
+    </item>
+    <item>
+      <title>São João Paulo Segundo</title>
+      <link>http://localhost:1313/posts/s%C3%A3o-joao-paulo-segundo/</link>
+      <pubDate>Fri, 24 May 2024 14:01:33 -0400</pubDate>
+      <guid>http://localhost:1313/posts/s%C3%A3o-joao-paulo-segundo/</guid>
+      <description>An important statue of John Paul II was passed between schools while I was working at two schools in Timor. The ceremonies and rituals were profoundly moving for me. Read this article to learn some history, culture, and appreciation for the beauties of ceremony.</description>
     </item>
     <item>
       <title>A Week in Jogja</title>
