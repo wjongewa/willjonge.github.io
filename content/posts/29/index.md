@@ -1,6 +1,6 @@
 ---
 date: '2026-09-29T10:00:55-04:00'
-draft: true
+draft: false
 title: '29'
 summary: 28 started in despair, but grew to be possibly the greatest year of my life. I hope 29 can supercede.
 description: 28 started in despair, but grew to be possibly the greatest year of my life. I hope 29 can supercede.
